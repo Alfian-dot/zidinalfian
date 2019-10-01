@@ -1,0 +1,35 @@
+
+	.form {
+		font-family: TimesNewRoman;
+			margin-right: auto;
+			margin-left: auto;
+			max-width: 1059px;
+		}
+		body{
+			background: url('bg1.PNG');
+			color: solid black;
+		}
+		table, th, tr, td{
+			border: 1px solid black;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		div{
+			width: 350px;
+			height: 300px;
+			position: relative;
+			float: left;
+		}
+		.center{
+			text-align: center;
+		}
+		.hol{
+			background-color: red;
+		}
+		.today{
+			background-color: yellow;
+		}
+		.noborder{
+			border: none;
+			margin: 0px;
+		}
